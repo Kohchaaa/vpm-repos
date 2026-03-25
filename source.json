@@ -1,15 +1,14 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
+    "name":"kohchaaa",
+    "id":"jp.kohchaaa.vpm",
+    "url":"https://Kohchaaa.github.io/vpm-repos/vpm.json",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+        "name":"Kohchaaa",
+        "url":"https://vrchat.com/home/user/usr_e3397ead-3c85-4c4a-b41f-94ca63f42fc7"
     },
-    "description":"Example listing of VRChat packages",
+    "description":"Kohchaaa's VPM Listing",
     "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
+        "url":"https://github.com/Kohchaaa/vpm-repos",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",

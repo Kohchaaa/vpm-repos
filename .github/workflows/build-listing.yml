@@ -51,6 +51,9 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
  
+      - name: Rename index.json to vpm.json
+        run: mv ${{env.listPublishDirectory}}/index.json ${{env.listPublishDirectory}}/vpm.json
+
       - name: Setup Pages
         uses: actions/configure-pages@v5
         
