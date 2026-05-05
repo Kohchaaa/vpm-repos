@@ -13,7 +13,8 @@
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "Kohchaaa/Material-Refactor"
+        "Kohchaaa/Material-Refactor",
+        "Kohchaaa/window-locker"
     ],
     "packages":[]
 }
